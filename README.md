@@ -80,4 +80,4 @@ This project is a 5-page interactive Power BI dashboard created using the Netfli
 ## 👨‍💻 Author
 
 Suriya
-📌 GitHub Profile
+📌 https://github.com/suriya-14
